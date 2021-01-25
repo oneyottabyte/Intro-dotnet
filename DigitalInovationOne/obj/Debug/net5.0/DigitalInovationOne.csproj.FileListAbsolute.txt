@@ -1,0 +1,16 @@
+D:\Dorian\Documents\GitHub\Intro-dotnet\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.exe
+D:\Dorian\Documents\GitHub\Intro-dotnet\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.deps.json
+D:\Dorian\Documents\GitHub\Intro-dotnet\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.runtimeconfig.json
+D:\Dorian\Documents\GitHub\Intro-dotnet\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.runtimeconfig.dev.json
+D:\Dorian\Documents\GitHub\Intro-dotnet\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.dll
+D:\Dorian\Documents\GitHub\Intro-dotnet\DigitalInovationOne\bin\Debug\net5.0\ref\DigitalInovationOne.dll
+D:\Dorian\Documents\GitHub\Intro-dotnet\DigitalInovationOne\bin\Debug\net5.0\DigitalInovationOne.pdb
+D:\Dorian\Documents\GitHub\Intro-dotnet\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.csprojAssemblyReference.cache
+D:\Dorian\Documents\GitHub\Intro-dotnet\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dorian\Documents\GitHub\Intro-dotnet\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.AssemblyInfoInputs.cache
+D:\Dorian\Documents\GitHub\Intro-dotnet\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.AssemblyInfo.cs
+D:\Dorian\Documents\GitHub\Intro-dotnet\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.csproj.CoreCompileInputs.cache
+D:\Dorian\Documents\GitHub\Intro-dotnet\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.dll
+D:\Dorian\Documents\GitHub\Intro-dotnet\DigitalInovationOne\obj\Debug\net5.0\ref\DigitalInovationOne.dll
+D:\Dorian\Documents\GitHub\Intro-dotnet\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.pdb
+D:\Dorian\Documents\GitHub\Intro-dotnet\DigitalInovationOne\obj\Debug\net5.0\DigitalInovationOne.genruntimeconfig.cache
