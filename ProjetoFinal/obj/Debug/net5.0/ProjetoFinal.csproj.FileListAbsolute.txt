@@ -1,0 +1,16 @@
+D:\Dorian\Documents\GitHub\Intro-dotnet\ProjetoFinal\bin\Debug\net5.0\ProjetoFinal.exe
+D:\Dorian\Documents\GitHub\Intro-dotnet\ProjetoFinal\bin\Debug\net5.0\ProjetoFinal.deps.json
+D:\Dorian\Documents\GitHub\Intro-dotnet\ProjetoFinal\bin\Debug\net5.0\ProjetoFinal.runtimeconfig.json
+D:\Dorian\Documents\GitHub\Intro-dotnet\ProjetoFinal\bin\Debug\net5.0\ProjetoFinal.runtimeconfig.dev.json
+D:\Dorian\Documents\GitHub\Intro-dotnet\ProjetoFinal\bin\Debug\net5.0\ProjetoFinal.dll
+D:\Dorian\Documents\GitHub\Intro-dotnet\ProjetoFinal\bin\Debug\net5.0\ref\ProjetoFinal.dll
+D:\Dorian\Documents\GitHub\Intro-dotnet\ProjetoFinal\bin\Debug\net5.0\ProjetoFinal.pdb
+D:\Dorian\Documents\GitHub\Intro-dotnet\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.csprojAssemblyReference.cache
+D:\Dorian\Documents\GitHub\Intro-dotnet\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dorian\Documents\GitHub\Intro-dotnet\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.AssemblyInfoInputs.cache
+D:\Dorian\Documents\GitHub\Intro-dotnet\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.AssemblyInfo.cs
+D:\Dorian\Documents\GitHub\Intro-dotnet\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.csproj.CoreCompileInputs.cache
+D:\Dorian\Documents\GitHub\Intro-dotnet\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.dll
+D:\Dorian\Documents\GitHub\Intro-dotnet\ProjetoFinal\obj\Debug\net5.0\ref\ProjetoFinal.dll
+D:\Dorian\Documents\GitHub\Intro-dotnet\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.pdb
+D:\Dorian\Documents\GitHub\Intro-dotnet\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.genruntimeconfig.cache
